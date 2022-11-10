@@ -1,6 +1,6 @@
 # tomcat-docker-compose
 
-
+```
 version: "3.9"
 
 services:
@@ -17,3 +17,4 @@ services:
    ports:
      - "8080:8080"
    restart: always
+````
